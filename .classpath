@@ -6,7 +6,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/inna/Desktop/importFile/selenium/opencsv-5.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/inna/Desktop/importFile/commons-lang3-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Desktop/Selenium/opencsv-5.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/User/Downloads/commons-lang3-3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
